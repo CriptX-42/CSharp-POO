@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\POO\\CSharp-POO\\POO\\Sobreposicao.csproj",
-      "projectName": "Sobreposicao",
-      "projectPath": "C:\\Git\\POO\\CSharp-POO\\POO\\Sobreposicao.csproj",
+      "projectUniqueName": "C:\\Git\\POO\\CSharp-POO\\SelandoMetodos\\SelandoMetodos.csproj",
+      "projectName": "SelandoMetodos",
+      "projectPath": "C:\\Git\\POO\\CSharp-POO\\SelandoMetodos\\SelandoMetodos.csproj",
       "packagesPath": "C:\\Users\\ricardo.carvalho\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\POO\\CSharp-POO\\POO\\obj\\",
+      "outputPath": "C:\\Git\\POO\\CSharp-POO\\SelandoMetodos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
