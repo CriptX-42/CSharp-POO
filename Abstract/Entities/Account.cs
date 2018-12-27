@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SelandoMetodos.Entities
+namespace Abstract.Entities
 {
-    class Account
+    abstract class Account
     {
         public int Number { get; private set; }
         public string Holder { get; private set; }
@@ -21,7 +21,7 @@ namespace SelandoMetodos.Entities
             Balance = balance;
         }
 
-        public virtual void Withdraw(double amount)
+        public virtual void Withdraw(double amount) //O virtual faz com que o metodo seja sobrescrito na sub classe
         {
             Balance -= amount + 5.0;
         }
